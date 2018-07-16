@@ -14,10 +14,7 @@ import com.ctrip.standard.AppInterface;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
-/**
- * @author Zhenhua on 2018/3/3.
- * @email zhshan@ctrip.com ^.^
- */
+
 
 public class BaseActivity extends Activity implements AppInterface {
 

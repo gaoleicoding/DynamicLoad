@@ -11,10 +11,7 @@ import java.lang.reflect.Method;
 
 import dalvik.system.DexClassLoader;
 
-/**
- * @author Zhenhua on 2018/3/7.
- * @email zhshan@ctrip.com ^.^
- */
+
 
 public class PluginManager {
     //-------1:构建单例类start--------
@@ -31,7 +28,7 @@ public class PluginManager {
         this.context = context.getApplicationContext();
     }
 
-    public void loadPath(String path) {
+    public void loadPath(String path) throws Exception{
         setEntryName(path);
         setClassLoader(path);
         setResources(path);

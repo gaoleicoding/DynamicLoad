@@ -12,10 +12,7 @@ import com.ctrip.standard.AppInterface;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-/**
- * @author Zhenhua on 2018/3/7.
- * @email zhshan@ctrip.com ^.^
- */
+
 
 public class ProxyActivity extends Activity {
     /**

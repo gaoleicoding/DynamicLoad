@@ -15,10 +15,6 @@ import android.widget.Toast;
 
 import java.io.File;
 
-/**
- * @author Zhenhua on 2018/3/7.
- * @email zhshan@ctrip.com ^.^
- */
 
 public class MainActivity extends AppCompatActivity {
     private static final int MY_PERMISSION_REQUEST_CODE = 10000;
@@ -57,7 +53,17 @@ public class MainActivity extends AppCompatActivity {
          * 现实场景中是有服务端下发
          */
         File file = new File(Environment.getExternalStorageDirectory().getPath() + "/plugin_test", "plugin.apk");
-        PluginManager.getInstance().loadPath(file.getAbsoluteFile().getPath());
+        if(file.exists()){
+            try {
+                PluginManager.getInstance().loadPath(file.getAbsoluteFile().getPath());
+                toast("加载插件apk成功" );
+            }catch (Exception e){
+            }
+        }else{
+            toast("插件apk不存在" );
+
+        }
+
     }
 
     //事件绑定click

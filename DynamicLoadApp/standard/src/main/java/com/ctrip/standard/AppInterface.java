@@ -4,10 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 
-/**
- * @author Zhenhua on 2018/3/7.
- * @email zhshan@ctrip.com ^.^
- */
+
 
 public interface AppInterface {
     void setContentView(int layoutResID);
