@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a637e4efe3be6404d3a7970b82847899/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

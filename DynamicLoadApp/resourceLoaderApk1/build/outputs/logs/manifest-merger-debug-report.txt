@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/00005cc9149a3543b3ffdaf2afbc7b0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cfa0ff4b5b6da438b57a39c8db044608/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9cda601c8ae0f8732d48ed2d8ccf6d7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/03e762c8bfa27c16c0f56ab05f8a1e66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d559a3981f1dc747c66fbb7d63a1de16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a637e4efe3be6404d3a7970b82847899/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f8fcb9ec4ef72207fea8f827ba36aaca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c6f869747c77b220217a239369e9527e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2dbe9fca4c90462b3df355dc6fbba5f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e01bad51efe21e562db4e8aec6e6d1f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/00005cc9149a3543b3ffdaf2afbc7b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/00005cc9149a3543b3ffdaf2afbc7b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cfa0ff4b5b6da438b57a39c8db044608/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cfa0ff4b5b6da438b57a39c8db044608/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9cda601c8ae0f8732d48ed2d8ccf6d7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9cda601c8ae0f8732d48ed2d8ccf6d7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/03e762c8bfa27c16c0f56ab05f8a1e66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/03e762c8bfa27c16c0f56ab05f8a1e66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d559a3981f1dc747c66fbb7d63a1de16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d559a3981f1dc747c66fbb7d63a1de16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a637e4efe3be6404d3a7970b82847899/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a637e4efe3be6404d3a7970b82847899/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f8fcb9ec4ef72207fea8f827ba36aaca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f8fcb9ec4ef72207fea8f827ba36aaca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c6f869747c77b220217a239369e9527e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c6f869747c77b220217a239369e9527e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2dbe9fca4c90462b3df355dc6fbba5f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2dbe9fca4c90462b3df355dc6fbba5f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e01bad51efe21e562db4e8aec6e6d1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gaolei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e01bad51efe21e562db4e8aec6e6d1f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml
+application
+ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:11:5-24:19
+	android:label
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:12:9-35
+activity#com.example.resourceloaderapk.MainActivity
+ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:16:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/src/main/AndroidManifest.xml:21:27-74

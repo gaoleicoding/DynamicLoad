@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

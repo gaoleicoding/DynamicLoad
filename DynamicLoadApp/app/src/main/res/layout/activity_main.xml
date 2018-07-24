@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:background="@drawable/skin"
+>
 
     <TextView
-        android:id="@+id/load"
+        android:id="@+id/title"
+        android:layout_centerHorizontal="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center|center_vertical"
-        android:layout_marginTop="100dp"
-        android:background="#eeeeee"
-        android:padding="20dp"
-        android:text="加载插件" />
+        android:layout_margin="20dp"
+        android:textSize="18sp"
+        android:textColor="#aaffffff"
+        android:text="沙滩" />
 
-    <TextView
-        android:id="@+id/click"
+    <Button
+        android:id="@+id/btn1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center|center_vertical"
-        android:layout_marginTop="100dp"
-        android:background="#eeeeee"
-        android:padding="20dp"
-        android:text="跳转到插件" />
+        android:padding="10dp"
+        android:layout_centerInParent="true"
+        android:text="切换主题" />
 
-</LinearLayout>
+</RelativeLayout>

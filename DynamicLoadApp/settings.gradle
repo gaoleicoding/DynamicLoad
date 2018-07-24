@@ -1,1 +1,2 @@
-include ':standard', ':app', ':thirdpartyapplication'
+include  ':app'
+include ':resourceLoaderApk1'

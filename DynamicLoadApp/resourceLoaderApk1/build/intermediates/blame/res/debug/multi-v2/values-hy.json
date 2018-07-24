@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/values-hy/values-hy.xml",
+            "map": [
+                {
+                    "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,309,419,508,614,729,811,892,977,1084,1191,1290,1400,1507,1607,1764,1863",
+                        "endColumns": "102,100,109,88,105,114,81,80,84,106,106,98,109,106,99,156,98,81",
+                        "endOffsets": "203,304,414,503,609,724,806,887,972,1079,1186,1285,1395,1502,1602,1759,1858,1940"
+                    }
+                },
+                {
+                    "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a637e4efe3be6404d3a7970b82847899/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1945",
+                        "endColumns": "100",
+                        "endOffsets": "2041"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
+            "map": [
+                {
+                    "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,309,419,508,614,729,811,892,977,1084,1191,1290,1400,1507,1607,1764,1863",
+                        "endColumns": "102,100,109,88,105,114,81,80,84,106,106,98,109,106,99,156,98,81",
+                        "endOffsets": "203,304,414,503,609,724,806,887,972,1079,1186,1285,1395,1502,1602,1759,1858,1940"
+                    }
+                },
+                {
+                    "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a637e4efe3be6404d3a7970b82847899/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1945",
+                        "endColumns": "100",
+                        "endOffsets": "2041"
+                    }
+                }
+            ]
+        }
+    ]
+}
