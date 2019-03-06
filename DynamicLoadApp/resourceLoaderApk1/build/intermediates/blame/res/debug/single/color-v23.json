@@ -1,11 +1,35 @@
 [
     {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_tint_default.xml"
+    },
+    {
         "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/color-v23/abc_tint_default.xml"
     },
     {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
         "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
         "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
@@ -14,6 +38,10 @@
     {
         "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
         "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
@@ -28,8 +56,16 @@
         "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/color-v23/abc_color_highlight_material.xml"
     },
     {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
         "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/Users/gaolei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/161e6f507775fbd752f51c59ccfb3a77/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/489fc82b709aadc9e1d0e79ed1657ea3/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/gaolei/gaolei/Work/Android/Note/ThirdPart_Frame/DynamicLoad/DynamicLoadApp/DynamicLoadApp/resourceLoaderApk1/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",

@@ -1,4 +1,0 @@
-#Wed Mar 06 22:36:42 CST 2019
-base.0=/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/build/intermediates/transforms/dexMerger/debug/10
-path.0=classes.dex
-renamed.0=classes.dex
