@@ -1,4 +1,4 @@
-package com.ctrip.thirdpartyapplication
+package com.ctrip.plugin
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

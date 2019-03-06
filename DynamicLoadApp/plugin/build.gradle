@@ -7,7 +7,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.ctrip.thirdpartyapplication"
+        applicationId "com.ctrip.plugin"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

@@ -1,4 +1,4 @@
-package com.ctrip.thirdpartyapplication
+package com.ctrip.plugin
 
 import android.os.Bundle
 import android.widget.ImageView
@@ -16,7 +16,7 @@ class MainActivity : BaseActivity() {
          */
         var img = findViewById<ImageView>(R.id.img)
         img.setOnClickListener({
-            Toast.makeText(that, "点击啦", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "点击啦", Toast.LENGTH_SHORT).show()
         })
     }
 }

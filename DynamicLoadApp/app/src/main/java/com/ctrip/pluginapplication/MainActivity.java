@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
          * 事先放置到SD卡根目录的plugin.apk
          * 现实场景中是有服务端下发
          */
-        File file = new File(Environment.getExternalStorageDirectory().getPath() + "/plugin_test", "plugin.apk");
+        File file = new File(Environment.getExternalStorageDirectory().getPath() , "plugin.apk");
         if(file.exists()){
             try {
                 PluginManager.getInstance().loadPath(file.getAbsoluteFile().getPath());

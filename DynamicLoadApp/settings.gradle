@@ -1,1 +1,1 @@
-include ':standard', ':app', ':thirdpartyapplication'
+include ':standard', ':app', ':plugin'

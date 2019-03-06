@@ -9,8 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/plugin" />
             <option value="$PROJECT_DIR$/standard" />
-            <option value="$PROJECT_DIR$/thirdpartyapplication" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

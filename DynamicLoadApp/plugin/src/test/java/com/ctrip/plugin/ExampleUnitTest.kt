@@ -1,4 +1,4 @@
-package com.ctrip.thirdpartyapplication
+package com.ctrip.plugin
 
 import org.junit.Test
 
