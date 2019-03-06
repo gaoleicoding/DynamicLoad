@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
