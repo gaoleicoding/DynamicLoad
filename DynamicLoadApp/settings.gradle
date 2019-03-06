@@ -1,2 +1,2 @@
 include  ':app'
-include ':resourceLoaderApk1'
+include ':ResourceApk'

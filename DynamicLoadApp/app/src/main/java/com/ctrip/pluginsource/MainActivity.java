@@ -35,7 +35,7 @@ public class MainActivity extends BaseActivity {
 		background = (RelativeLayout) findViewById(R.id.background);
 
 		//把插件APK放到sd卡，然后在这里加载
-		File file1 = new File(Environment.getExternalStorageDirectory().getPath() , "ResourceLoaderApk1.apk");
+		File file1 = new File(Environment.getExternalStorageDirectory().getPath() , "ResourceApk.apk");
 		final String filePath1 = file1.getAbsoluteFile().getPath();
 
 		fileRelease = getDir("dex", 0);

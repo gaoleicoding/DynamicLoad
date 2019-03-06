@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DynamicLoadApp.iml" filepath="$PROJECT_DIR$/DynamicLoadApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResourceApk/ResourceApk.iml" filepath="$PROJECT_DIR$/ResourceApk/ResourceApk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/resourceLoaderApk1/resourceLoaderApk1.iml" filepath="$PROJECT_DIR$/resourceLoaderApk1/resourceLoaderApk1.iml" />
     </modules>
   </component>
 </project>
