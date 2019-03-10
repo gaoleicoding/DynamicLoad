@@ -17,6 +17,8 @@ import java.io.File;
 
 
 public class MainActivity extends AppCompatActivity {
+
+    File file;
     private static final int MY_PERMISSION_REQUEST_CODE = 10000;
     //    BottomNavigationView bottomNavigationView;
     String[] permissionArray = new String[]{
@@ -52,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
          * 事先放置到SD卡根目录的plugin.apk
          * 现实场景中是有服务端下发
          */
-        File file = new File(Environment.getExternalStorageDirectory().getPath() , "plugin.apk");
+
         if(file.exists()){
             try {
                 PluginManager.getInstance().loadPath(file.getAbsoluteFile().getPath());
@@ -60,8 +62,7 @@ public class MainActivity extends AppCompatActivity {
             }catch (Exception e){
             }
         }else{
-            toast("插件apk不存在" );
-
+            toast("插件plugin.apk不存在" );
         }
 
     }
@@ -71,9 +72,14 @@ public class MainActivity extends AppCompatActivity {
         /**
          * 点击跳往插件app的activity，一律跳转到PRoxyActivity
          */
+        if(file.exists()){
         Intent intent = new Intent(this, ProxyActivity.class);
         intent.putExtra("className", PluginManager.getInstance().getEntryName());
         startActivity(intent);
+        }else{
+            toast("插件plugin.apk不存在" );
+
+        }
 
     }
     public void checkPermission() {
@@ -86,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
         // 如果这权限全都拥有, 则显示HomeFragment
         if (isAllGranted) {
 //            switchFragment(0);
+            file = new File(Environment.getExternalStorageDirectory().getPath() , "plugin.apk");
             return;
         }
 
@@ -132,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
 
             if (isAllGranted) {
                 // 如果所有的权限都授予了, 则显示HomeFragment
-//                switchFragment(0);
+                 file = new File(Environment.getExternalStorageDirectory().getPath() , "plugin.apk");
             } else {
                 // 弹出对话框告诉用户需要权限的原因, 并引导用户去应用权限管理中手动打开权限按钮
 //                getAppDetailSettingIntent(this);
