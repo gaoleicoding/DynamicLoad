@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

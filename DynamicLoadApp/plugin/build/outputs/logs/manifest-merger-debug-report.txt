@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:standard] /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/standard/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/867949d2132af20da743ae3c04fa26b5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/231ab4d9d75993140a17500d819ced1b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/27415f28867a7ad34d45c15a99c921cb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1e137248950e062344384a7f65a9911/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4fdc43e5d4f84f187ca05f065f0bcce5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5c755119feb7b19ab949ba49360917bb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d6729d230a12cb0e9b3ac01a7e77d6d5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8c5676c72547b0444f90c377cc56789a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/703f949e73e30f9dc27efa3506c96b04/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/867949d2132af20da743ae3c04fa26b5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/867949d2132af20da743ae3c04fa26b5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/231ab4d9d75993140a17500d819ced1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/231ab4d9d75993140a17500d819ced1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/27415f28867a7ad34d45c15a99c921cb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/27415f28867a7ad34d45c15a99c921cb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1e137248950e062344384a7f65a9911/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1e137248950e062344384a7f65a9911/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4fdc43e5d4f84f187ca05f065f0bcce5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4fdc43e5d4f84f187ca05f065f0bcce5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5c755119feb7b19ab949ba49360917bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5c755119feb7b19ab949ba49360917bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d6729d230a12cb0e9b3ac01a7e77d6d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d6729d230a12cb0e9b3ac01a7e77d6d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8c5676c72547b0444f90c377cc56789a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8c5676c72547b0444f90c377cc56789a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/703f949e73e30f9dc27efa3506c96b04/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/703f949e73e30f9dc27efa3506c96b04/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:11:9-40
+activity#com.ctrip.plugin.MainActivity
+ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:12:19-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+MERGED from [:standard] /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/standard/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:standard] /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/standard/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/867949d2132af20da743ae3c04fa26b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/867949d2132af20da743ae3c04fa26b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/231ab4d9d75993140a17500d819ced1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/231ab4d9d75993140a17500d819ced1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/27415f28867a7ad34d45c15a99c921cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/27415f28867a7ad34d45c15a99c921cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1e137248950e062344384a7f65a9911/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1e137248950e062344384a7f65a9911/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4fdc43e5d4f84f187ca05f065f0bcce5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4fdc43e5d4f84f187ca05f065f0bcce5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5c755119feb7b19ab949ba49360917bb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5c755119feb7b19ab949ba49360917bb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d6729d230a12cb0e9b3ac01a7e77d6d5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d6729d230a12cb0e9b3ac01a7e77d6d5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8c5676c72547b0444f90c377cc56789a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8c5676c72547b0444f90c377cc56789a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/703f949e73e30f9dc27efa3506c96b04/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/703f949e73e30f9dc27efa3506c96b04/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/gl/gaolei/Android/GitHub/DynamicLoadApp/DynamicLoadApp/plugin/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/231ab4d9d75993140a17500d819ced1b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/231ab4d9d75993140a17500d819ced1b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/27415f28867a7ad34d45c15a99c921cb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/27415f28867a7ad34d45c15a99c921cb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1e137248950e062344384a7f65a9911/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1e137248950e062344384a7f65a9911/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4fdc43e5d4f84f187ca05f065f0bcce5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4fdc43e5d4f84f187ca05f065f0bcce5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5c755119feb7b19ab949ba49360917bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5c755119feb7b19ab949ba49360917bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d6729d230a12cb0e9b3ac01a7e77d6d5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d6729d230a12cb0e9b3ac01a7e77d6d5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8c5676c72547b0444f90c377cc56789a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8c5676c72547b0444f90c377cc56789a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/502101c8160c90a1f35afc02503013d5/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f2b4d5282ff25f73bc21ac87437ecdde/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/703f949e73e30f9dc27efa3506c96b04/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/703f949e73e30f9dc27efa3506c96b04/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gl/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/703f949e73e30f9dc27efa3506c96b04/AndroidManifest.xml:26:13-58
