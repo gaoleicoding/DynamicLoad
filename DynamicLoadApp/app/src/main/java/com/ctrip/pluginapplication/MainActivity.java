@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
     private static final int MY_PERMISSION_REQUEST_CODE = 10000;
     //    BottomNavigationView bottomNavigationView;
     String[] permissionArray = new String[]{
-            Manifest.permission.READ_EXTERNAL_STORAGE,
             Manifest.permission.WRITE_EXTERNAL_STORAGE,
     };
 
