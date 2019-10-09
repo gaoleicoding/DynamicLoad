@@ -1,9 +1,8 @@
-package com.example.resourceloaderapk;
+package com.example.resourceloaderapk1;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.example.resourceloaderapk1.R;
 
 public class MainActivity extends Activity {
 

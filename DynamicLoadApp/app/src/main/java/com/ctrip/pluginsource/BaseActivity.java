@@ -32,37 +32,7 @@ public class BaseActivity extends Activity{
 
 	}
 	
-	protected void loadResources(String dexPath) {  
-        try {  
-            AssetManager assetManager = AssetManager.class.newInstance();  
-            Method addAssetPath = assetManager.getClass().getMethod("addAssetPath", String.class);  
-            addAssetPath.invoke(assetManager, dexPath);  
-            mAssetManager = assetManager;  
-        } catch (Exception e) {  
-            e.printStackTrace();  
-        }  
-        Resources superRes = super.getResources();  
-        superRes.getDisplayMetrics();  
-        superRes.getConfiguration();  
-        mResources = new Resources(mAssetManager, superRes.getDisplayMetrics(),superRes.getConfiguration());  
-        mTheme = mResources.newTheme();  
-        mTheme.setTo(super.getTheme());
-    }  
-	
-	@Override  
-	public AssetManager getAssets() {  
-	    return mAssetManager == null ? super.getAssets() : mAssetManager;  
-	}  
-	
-	@Override  
-	public Resources getResources() {  
-	    return mResources == null ? super.getResources() : mResources;  
-	}  
-	
-	@Override  
-	public Theme getTheme() {  
-	    return mTheme == null ? super.getTheme() : mTheme;  
-	}
+
 	public void checkPermission() {
 		/**
 		 * 第 1 步: 检查是否有相应的权限

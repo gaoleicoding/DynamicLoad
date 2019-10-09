@@ -24,8 +24,8 @@
 17        android:testOnly="true" >
 18        <activity
 18-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:11:9-19:20
-19            android:name="com.example.resourceloaderapk.MainActivity"
-19-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:12:13-70
+19            android:name="com.example.resourceloaderapk1.MainActivity"
+19-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:12:13-41
 20            android:label="@string/app_name" >
 20-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:13:13-45
 21            <intent-filter>

@@ -3,25 +3,40 @@
     android:id="@+id/background"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/skin"
->
+    android:background="@drawable/skin">
 
     <TextView
         android:id="@+id/title"
-        android:layout_centerHorizontal="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
         android:layout_margin="20dp"
-        android:textSize="18sp"
-        android:textColor="#aaffffff"
-        android:text="沙滩" />
+        android:text="沙滩"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/btn1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:padding="10dp"
         android:layout_centerInParent="true"
+        android:padding="10dp"
         android:text="切换主题" />
 
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/icon_beach" />
+
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/img"
+        android:text="这是一片美丽的沙滩"
+        android:padding="10dp"
+        android:textColor="#ffffff" />
 </RelativeLayout>

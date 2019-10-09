@@ -17,7 +17,7 @@
         android:label="@string/app_name"
         android:testOnly="true" >
         <activity
-            android:name="com.example.resourceloaderapk.MainActivity"
+            android:name="com.example.resourceloaderapk1.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

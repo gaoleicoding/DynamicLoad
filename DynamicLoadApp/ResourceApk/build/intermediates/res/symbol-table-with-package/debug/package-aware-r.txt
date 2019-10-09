@@ -570,6 +570,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable home_theme_bg
+drawable home_theme_icon
 drawable ic_launcher
 drawable notification_action_background
 drawable notification_bg
@@ -583,7 +585,6 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable skin1
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -804,8 +805,9 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string action_settings
 string app_name
-string grassland
 string hello_world
+string home_theme_subtitle
+string home_theme_title
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
