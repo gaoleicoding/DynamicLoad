@@ -99,7 +99,7 @@ public class Util {
             //通过使用apk自己的类加载器，反射出R类中相应的内部类进而获取我们需要的资源id
             Class<?> clazz = dexClassLoader.loadClass(apkPackageName + ".R$string");
             Field field = clazz.getDeclaredField(resName);//得到名为resName的这张图片字段
-            return field.getInt(R.id.class);//得到图片id
+            return field.getInt(clazz);//得到图片id
         } catch (Exception e) {
             e.printStackTrace();
         }

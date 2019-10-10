@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DynamicLoadApp.iml" filepath="$PROJECT_DIR$/DynamicLoadApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicLoadApp-DynamicLoadApp.iml" filepath="$PROJECT_DIR$/DynamicLoadApp-DynamicLoadApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ResourceApk/DynamicLoadApp-ResourceApk.iml" filepath="$PROJECT_DIR$/ResourceApk/DynamicLoadApp-ResourceApk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/DynamicLoadApp-app.iml" filepath="$PROJECT_DIR$/app/DynamicLoadApp-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/DynamicLoadApp-plugin.iml" filepath="$PROJECT_DIR$/plugin/DynamicLoadApp-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standard/DynamicLoadApp-standard.iml" filepath="$PROJECT_DIR$/standard/DynamicLoadApp-standard.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResourceApk/ResourceApk.iml" filepath="$PROJECT_DIR$/ResourceApk/ResourceApk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standard/standard.iml" filepath="$PROJECT_DIR$/standard/standard.iml" />
     </modules>
   </component>
 </project>
