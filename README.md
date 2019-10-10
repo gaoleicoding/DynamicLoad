@@ -7,6 +7,3 @@ https://github.com/gaoleicoding/DynamicLoadApp/tree/master
 
 plugin_resource分支，动态改变皮肤和资源文件：
 https://github.com/gaoleicoding/DynamicLoadApp/tree/plugin_resource
-
-
-详情可参考博客：https://blog.csdn.net/acxingyun/article/details/78742002
