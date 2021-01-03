@@ -43,8 +43,6 @@ public class MainActivity extends AppCompatActivity {
         });
         checkPermission();
         PluginManager.getInstance().setContext(this);
-
-
     }
 
     //事件绑定load
