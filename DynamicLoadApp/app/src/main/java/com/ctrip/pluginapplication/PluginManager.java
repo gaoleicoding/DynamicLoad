@@ -51,7 +51,6 @@ public class PluginManager {
     }
     //-------2:获取插件app入口activity name end--------
 
-
     //-------3:构造classLoader start-------------
     private DexClassLoader dexClassLoader;
 
