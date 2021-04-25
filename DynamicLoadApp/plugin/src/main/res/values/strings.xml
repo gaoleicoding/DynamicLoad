@@ -1,3 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">plugin</string>
+
+    <string name="home_theme_title" tools:ignore="ExtraTranslation">草原</string>
+    <string name="home_theme_subtitle" tools:ignore="ExtraTranslation">这是一片美丽的草原</string>
+
 </resources>

@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.resourceloaderapk1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:7:5-20:19
+12        android:allowBackup="true"
+12-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:8:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] /Users/gl/.gradle/caches/transforms-2/files-2.1/2cb2aba472087c7da113f86af403c63b/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:9:9-45
+16        android:label="@string/app_name"
+16-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:10:9-41
+17        android:testOnly="true" >
+18        <activity
+18-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:11:9-19:20
+19            android:name="com.example.resourceloaderapk1.MainActivity"
+19-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:12:13-41
+20            android:label="@string/app_name" >
+20-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:13:13-45
+21            <intent-filter>
+21-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:14:13-18:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:15:17-69
+22-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:15:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:17:17-77
+24-->/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/src/main/AndroidManifest.xml:17:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>

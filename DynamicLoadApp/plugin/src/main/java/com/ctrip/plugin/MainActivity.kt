@@ -16,7 +16,9 @@ class MainActivity : BaseActivity() {
          */
         var img = findViewById<ImageView>(R.id.img)
         img.setOnClickListener({
-            Toast.makeText(this, "点击啦", Toast.LENGTH_SHORT).show()
+            if (that != null) {
+                Toast.makeText(that, "点击啦", Toast.LENGTH_SHORT).show()
+            }
         })
     }
 }

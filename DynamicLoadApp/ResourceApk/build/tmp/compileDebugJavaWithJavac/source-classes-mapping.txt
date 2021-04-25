@@ -1,0 +1,6 @@
+com/example/resourceloaderapk1/BuildConfig.java
+ com.example.resourceloaderapk1.BuildConfig
+com/example/resourceloaderapk1/MainActivity.java
+ com.example.resourceloaderapk1.MainActivity
+com/example/resourceloaderapk1/UIUtil.java
+ com.example.resourceloaderapk1.UIUtil

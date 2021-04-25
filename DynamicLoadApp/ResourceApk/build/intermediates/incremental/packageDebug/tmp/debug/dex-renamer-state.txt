@@ -1,0 +1,4 @@
+#Mon Apr 26 00:17:00 CST 2021
+base.0=/Users/gl/gaolei/Android/Note/DynamicLoad/DynamicLoadApp/DynamicLoadApp/ResourceApk/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
